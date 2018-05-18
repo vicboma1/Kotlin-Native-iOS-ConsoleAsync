@@ -57,6 +57,3 @@ __attribute__((objc_subclassing_restricted))
 
 NS_ASSUME_NONNULL_END
 ```
-
-### References 
-    *   https://gaming.youtube.com/watch?v=9LrLrnD5p7I&feature=share
