@@ -1,5 +1,5 @@
 # Kotlin Native iOS  (WIP)
-Kotlin native ios experimental
+Kotlin-native ios experimental | [video](https://gaming.youtube.com/watch?v=9LrLrnD5p7I&feature=share)
 
 ![](/assets/kotlinNative.gif)
 
@@ -57,3 +57,6 @@ __attribute__((objc_subclassing_restricted))
 
 NS_ASSUME_NONNULL_END
 ```
+
+### References 
+    *   https://gaming.youtube.com/watch?v=9LrLrnD5p7I&feature=share
