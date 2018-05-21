@@ -4,6 +4,22 @@ Kotlin-native ios experimental | [video](https://gaming.youtube.com/watch?v=9LrL
 ![](/assets/kotlinNative.gif)
 
 
+### Console Async
+```
+Simulator session started with process 8450
+
+pthread[0x604000004f88] -> application : <UIApplication: 0x7fbcb1900750>
+pthread[0x604000005088] -> viewDidLoad 
+pthread[0x60000000f728] -> applicationDidBecomeActive : <UIApplication: 0x7fbcb1900750>
+pthread[0x60000000f798] -> prepare : Optional("Victor, Bolin")
+pthread[0x60000000fd58] -> viewDidLoad : Hello from Kotlin!
+pthread[0x604000005028] -> applicationWillResignActive : <UIApplication: 0x7fbcb1900750>
+pthread[0x60000000f728] -> applicationDidEnterBackground : <UIApplication: 0x7fbcb1900750>
+pthread[0x6000000047c8] -> applicationWillEnterForeground : <UIApplication: 0x7fbcb1900750>
+pthread[0x604000007378] -> applicationDidBecomeActive : <UIApplication: 0x7fbcb1900750>
+```
+
+
 ### Framework Kotlin 
 
 ```kotlin
