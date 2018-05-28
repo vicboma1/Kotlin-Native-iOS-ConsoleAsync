@@ -1,5 +1,4 @@
-# Kotlin Native iOS - Console Async
-Kotlin-native ios experimental | [video](https://gaming.youtube.com/watch?v=9LrLrnD5p7I&feature=share)
+# Kotlin Native iOS - Console Async | [video](https://gaming.youtube.com/watch?v=9LrLrnD5p7I&feature=share)
 
 ![](/assets/kotlinNative.gif)
 
